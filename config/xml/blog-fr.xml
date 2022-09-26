@@ -6,6 +6,22 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Les 7 étapes pour créer un teasing produit</title>
+    <link>https://www.prestashop.com/fr/blog/teasing-produit-ecommerce</link>
+    <description>Vous avez prévu de lancer un nouveau produit et souhaitez mettre toutes les chances de votre côté pour assurer la</description>
+     <pubDate>Mon, 26 Sep 2022 18:26:29 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/teasing-produit-ecommerce</guid>
+  </item>
+  <item>
+    <title>Comment le e-commerce s&amp;#039;est-il développé après l&amp;#039;arrivée de la COVID-19 ?</title>
+    <link>https://www.prestashop.com/fr/blog/ecommerce-glotio</link>
+    <description>La pandémie de COVID-19 a accéléré la révolution technologique qui avait déjà commencé au cours des dernières décennies.</description>
+     <pubDate>Mon, 26 Sep 2022 18:16:12 +0200</pubDate>
+ <dc:creator>Sara Papa</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ecommerce-glotio</guid>
+  </item>
+  <item>
     <title>Préparez-vous à vendre comme un pro ce Black Friday</title>
     <link>https://www.prestashop.com/fr/blog/black-friday-commencez</link>
     <description>Le 25 novembre 2022 est une date à marquer d&#039;une croix rouge dans votre calendrier, car c&#039;est là que se déroulera l&#039;événement commercial de l&#039;année : Black Friday 2022.</description>
@@ -68,24 +84,6 @@
      <pubDate>Mon, 29 Aug 2022 15:05:41 +0200</pubDate>
  <dc:creator>L&#039;équipe PrestaShop</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/blog/paiement-fractionne</guid>
-  </item>
-  <item>
-    <title>PrestaShop vs Shopify : tout ce qu&amp;#039;il faut savoir</title>
-    <link>https://www.prestashop.com/fr/blog/prestashop-vs-shopify</link>
-    <description>Présentation de Shopify
-En 2006, la plateforme SaaS e-commerce canadienne Shopify voit le jour. </description>
-     <pubDate>Tue, 23 Aug 2022 10:18:18 +0200</pubDate>
- <dc:creator>Sébastien Godard</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-vs-shopify</guid>
-  </item>
-  <item>
-    <title>Magento vs. PrestaShop, tout ce qu&amp;#039;il faut savoir</title>
-    <link>https://www.prestashop.com/fr/blog/comparer-prestashop-magento</link>
-    <description>Présentation de Magento
-En 2008 Varien crée Magento est un CMS Open source e-commerce. Le projet est créé sur la base du framework Zend. </description>
-     <pubDate>Thu, 18 Aug 2022 14:44:03 +0200</pubDate>
- <dc:creator>Sébastien Godard</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/comparer-prestashop-magento</guid>
   </item>
   </channel>
 </rss>

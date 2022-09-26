@@ -1,4 +1,3 @@
-
 <div class="block test">
    <h4>{l s='Testing Module' mod='test'}</h4>
    <div class="block_content">
