@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2022-09-24 14:45:47
+<?php /* Smarty version Smarty-3.1.19, created on 2022-09-27 17:22:06
          compiled from "C:\xampp\htdocs\presta_test\themes\default-bootstrap\modules\blockcart\blockcart.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:30181632efbfba47559-57809569%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '82371bde769c5eb6bb4eed86a39723b6ec718af8' => 
     array (
       0 => 'C:\\xampp\\htdocs\\presta_test\\themes\\default-bootstrap\\modules\\blockcart\\blockcart.tpl',
-      1 => 1440056612,
+      1 => 1664291721,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_632efbfbd7d2e0_12120443',
   'variables' => 
   array (
     'blockcart_top' => 0,
@@ -54,8 +56,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'img_dir' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_632efbfbd7d2e0_12120443',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_632efbfbd7d2e0_12120443')) {function content_632efbfbd7d2e0_12120443($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\xampp\\htdocs\\presta_test\\tools\\smarty\\plugins\\modifier.replace.php';
 if (!is_callable('smarty_function_counter')) include 'C:\\xampp\\htdocs\\presta_test\\tools\\smarty\\plugins\\function.counter.php';

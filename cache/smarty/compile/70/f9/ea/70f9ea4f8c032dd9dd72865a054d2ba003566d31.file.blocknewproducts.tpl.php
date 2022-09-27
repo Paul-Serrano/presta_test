@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2022-09-26 01:49:09
+<?php /* Smarty version Smarty-3.1.19, created on 2022-09-27 17:35:26
          compiled from "C:\xampp\htdocs\presta_test\themes\default-bootstrap\modules\blocknewproducts\blocknewproducts.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:208376330e8f55bba92-04331567%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '70f9ea4f8c032dd9dd72865a054d2ba003566d31' => 
     array (
       0 => 'C:\\xampp\\htdocs\\presta_test\\themes\\default-bootstrap\\modules\\blocknewproducts\\blocknewproducts.tpl',
-      1 => 1440056612,
+      1 => 1664291721,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_6330e8f56347d8_80482548',
   'variables' => 
   array (
     'link' => 0,
@@ -25,8 +27,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'priceDisplay' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_6330e8f56347d8_80482548',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_6330e8f56347d8_80482548')) {function content_6330e8f56347d8_80482548($_smarty_tpl) {?>
 <!-- MODULE Block new products -->

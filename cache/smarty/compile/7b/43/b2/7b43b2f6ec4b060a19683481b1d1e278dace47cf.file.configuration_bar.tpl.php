@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2022-09-26 01:22:04
+<?php /* Smarty version Smarty-3.1.19, created on 2022-09-27 17:36:15
          compiled from "C:\xampp\htdocs\presta_test\admin770gzgmzk\themes\default\template\controllers\modules\configuration_bar.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:45476330e29c328616-28026771%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '7b43b2f6ec4b060a19683481b1d1e278dace47cf' => 
     array (
       0 => 'C:\\xampp\\htdocs\\presta_test\\admin770gzgmzk\\themes\\default\\template\\controllers\\modules\\configuration_bar.tpl',
-      1 => 1440056612,
+      1 => 1664291714,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_6330e29c348ad4_89341258',
   'variables' => 
   array (
     'module_name' => 0,
@@ -24,8 +26,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'shop_context' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_6330e29c348ad4_89341258',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_6330e29c348ad4_89341258')) {function content_6330e29c348ad4_89341258($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include 'C:\\xampp\\htdocs\\presta_test\\tools\\smarty\\plugins\\modifier.regex_replace.php';
 ?>

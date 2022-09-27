@@ -26,8 +26,6 @@ class ModuleTest extends Module {
 
     function install()
  	{
-        return parent::install();
-
  	 	if (!parent::install()) {
             return false;
         }
@@ -43,8 +41,6 @@ class ModuleTest extends Module {
 
     function uninstall()
     {
-
-        return parent::uninstall();
 
         Configuration::deleteByName('Module test');
         if (!parent::uninstall()) {
